@@ -1,0 +1,32 @@
+# Web Framework
+Flask
+
+# UI
+streamlit
+
+# Database
+SQLAlchemy
+psycopg2-binary
+
+# Text Processing
+PyPDF2
+python-docx
+python-pptx
+
+# AI Models
+transformers
+torch
+
+# API
+flask-restful
+
+# Utils
+python-dotenv
+gunicorn
+
+# Testing
+pytest
+
+# Autres utilitaires potentiellement utiles
+numpy
+pandas
